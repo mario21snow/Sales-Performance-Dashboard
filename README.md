@@ -28,5 +28,6 @@ To get started with the Sales Performance Dashboard, follow these steps:
 4. Explore the KPIs, charts, and graphs to gain valuable insights into your sales performance.
 5. Leverage the dashboard to make informed decisions and optimize your sales strategies.
 
+![image](https://github.com/mario21snow/Sales-Performance-Dashboard/assets/102954942/e5103131-7704-4138-96b2-b2b9262bb5fb)
 
 
